@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-A production company specializing in nostalgic styles needed insights into the 1990s movie landscape on Netflix. This project filters and analyzes the Netflix catalog to uncover duration trends and genre patterns from that decade.
+A production company specializing in nostalgic styles needed insights into the 1990s movie landscape on Netflix. This project filters and analyzes the Netflix catalog to uncover duration trends and ge[...]
 
 **Questions answered:**
 - What is the most common movie duration for 90s films on Netflix?
@@ -61,6 +61,10 @@ After filtering the full catalog down to **183 movies released between 1990–19
 | Comedies | 40 |
 | Children | 15 |
 | Classic Movies | 15 |
+
+### 📈 Duration Distribution Visualization
+
+![Distribution of Movie Durations in the 1990s](images/distribution_movie_duration.png)
 
 ---
 
